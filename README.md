@@ -24,8 +24,8 @@ From the command line, run the following commands:
 ```bash
 npm install
 npm node new.js
-
-#### Testing
+```
+## Testing
 The application can be tested on POSTMAN.The documentation link given https://documenter.getpostman.com/view/29781273/2s9YeMznyg
 
 
