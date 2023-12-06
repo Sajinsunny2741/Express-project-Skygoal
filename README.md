@@ -3,7 +3,7 @@ It is a Api for Medical store inventory coming with features like robust authori
 seamless CRUD operations .Leveraged MERN stack technologies for building the API.
 ## Setup
 
-1. Clone this repo
+1. Clone this repo (npm clone https://github.com/Sajinsunny2741/Express-project-Skygoal.git)
 
 ## Run
 This sample uses an express app running on nodejs.
