@@ -1,19 +1,31 @@
 # Express-project-Skygoal
-It is a Api for Medical store inventory coming with features like robust authorization, authentication, and
-seamless CRUD operations .Leveraged MERN stack technologies for building the API.
+It is an API for a medical store inventory that comes with features like robust authorization, authentication, and seamless CRUD operations. Leveraged MERN stack technologies for building the API.
+
 ## Setup
 
-1. Clone this repo (npm clone https://github.com/Sajinsunny2741/Express-project-Skygoal.git)
+1. Clone this repo:
+
+    ```bash
+    git clone https://github.com/Sajinsunny2741/Express-project-Skygoal.git
+    ```
+
+2. Navigate to the project folder:
+
+    ```bash
+    cd Express-project-Skygoal
+    ```
 
 ## Run
-This sample uses an express app running on nodejs.
 
-From the command line run
-```
-> npm install
-> npm node new.js
+This sample uses an Express app running on Node.js.
 
-### Testing
+From the command line, run the following commands:
+
+```bash
+npm install
+npm node new.js
+
+#### Testing
 The application can be tested on POSTMAN.The documentation link given https://documenter.getpostman.com/view/29781273/2s9YeMznyg
 
 
